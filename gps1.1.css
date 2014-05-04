@@ -1,0 +1,60 @@
+<!-- 
+Write your names here:
+1. Isaac Keith
+2. Alan Jameson
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<p><h1> </h1></p>
+  <head>
+    <link rel="stylesheet" href="p0_gps1.1.css">
+    <link rel="stylehseet" href="gps1.1.css">
+    <title>Marriage RoXXX</title>
+    <style>
+    #top {
+      background:olive;
+    color:white;
+    size:18px;
+    }
+    #middle {
+      background:#D2691E;
+      text-align:center;
+      color:white
+    }
+    #bottom {size:24px; 
+    font-weight:bold; 
+    text-align:center; 
+    background:olive;
+    color:white}
+    
+    </style>
+  </head>
+  <body>
+  <div id=top><p>
+    Two of us are getting married and we wanted to created a website to celebrate. 
+    Peer pairing is kinda like marriage but without the celebrating. 
+    But that doesn't mean that it can't be fun. If we are respectful and kind
+    this can be a memorable event. 
+    (But not as much as getting married!)
+  </p>
+    </div>
+    
+  <div id=middle>
+  <a href="http://imgur.com/4htTp6K"><img src="http://i.imgur.com/4htTp6K.png"
+  title="Isaac and Lynn"/></a>
+  <p>
+    On this special day we'll be doing the following
+    <ul>
+      <li>We're going to be on the beach</li>
+      <li>Only family as guests</li>
+      <li>And Isaac's Dad is going to preside</li>
+      <li>Dinner will be crabs</li>
+    </ul>
+  </p></div>
+ <div id=bottom><p>
+   If you can join us on this special day, please <a href=mailto:"jamesonar@gmail.com"
+   >let us know</a> by June 23rd
+ </p></div>
+  </body>
+</html>
