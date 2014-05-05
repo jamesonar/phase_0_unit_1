@@ -11,3 +11,19 @@
 * Which parts of the challenge did you find tedious?
 
 <!-- Add your reflection here. Remove the comment markers -->
+I have some general experience with wireframing tools, so I have a basic understanding of the tools. What I learned was some of the finer points of design thinking. In particular I like thinking about the empathy, creativitiy, and rationality of a 
+design as described by the wikipedia page
+
+Honestly, though I've never done it, I've always suspected that I would be a "back-end" developer. I find the concept of
+user experience interesting, but the parts that I find interesting are the parts where you get to analyze data from user
+experience experiments, not on the initial creation.
+
+I like the question "what is the goal of this site". I also found the Wireify tool a very handy one for generating wireframes of existing websites.
+
+Other than Wirify, I didn't learn many new tricks. Mostly it was a matter of learning some of the concepts of what drives
+the creation of a website. The tutplus.com resource was a particularly helpful one.
+
+I'm pretty confident with the learning competencies for this challenge.
+
+I like reading the theory behind it, I didn't like actually creating the wireframes.
+
