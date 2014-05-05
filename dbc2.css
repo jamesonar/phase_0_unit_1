@@ -1,0 +1,27 @@
+<style>
+  .yellow{color:yellow;} 
+  #body
+  {border: 5px solid yellow;
+  float:right;
+  width:630px;
+  background:gray;
+  }
+  a:"!"color:red;
+  #sidebar
+  {padding-top:5px;
+  margin-right:auto;
+  width:120px;
+  background:gray;}
+  #image
+   {padding-top:20px;
+  float:right;
+  width:630px;
+  background:gray;}
+  #footer
+  {position: absolute;
+  bottom: -40px;}
+  a:hover{color:red}
+  #caption
+  {position: absolute;
+  left:130px;
+  </style>
