@@ -34,3 +34,5 @@
     -I went to the network tab, reloaded the page, and then clicked on the size column to sort by size http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
     -The lowest hanging fruit is optimizing images (855.9 KB), leverage browser caching, and eliminate render-blocking javascript and CSS in aboe-the-fold content
+
+* Code school points:http://imgur.com/lBpnxYB
