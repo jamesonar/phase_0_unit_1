@@ -31,9 +31,9 @@ var members = ["John", "Paul", "Peter", "Mary" ]
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
+// Begining to visualize what the challenge was asking was by far the hardest part of this challenge. First, I struggled
+// to realize that assert was not a preset function defined in Javascript, but one written specifically for this challenge
+// second, it took me a while to unpack what it does. Once I figured that out it was easy.
 // 
 // 
 // 
