@@ -1,19 +1,22 @@
 // I paired [by myself, with:] on this challenge.
 
-
+//By myself
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+//Secret number must be number, needs to equal 7 
+//Password needs to be a string, "just open the door"
+//allowedIn should be boolean, false 
+//Needs four members, the first must be John, the second must be Mary 
+
 
 
 // __________________________________________
 // Write your code below.
-
-
+var secretNumber = 7
+var password = "just open the door"
+var allowedIn = false
+var members = ["John", "Paul", "Peter", "Mary" ]
 
 
 
@@ -21,7 +24,7 @@
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
-
+// I think my original code is pretty concise
 
 
 
@@ -102,3 +105,4 @@ assert(
   "9. "
 )
 
+ 
