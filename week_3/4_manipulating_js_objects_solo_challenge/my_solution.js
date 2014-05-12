@@ -16,35 +16,79 @@ var terah = {
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
+Create a object named adam
+Add a property to Terah setting Adam as her spouse
+Change Terah's weight to 125
+Remove Terah's eye color property
+Create a spouse property for Terah's spouse, set it to Terah
+Create a property for Terah's Children, set value to Carson + Carter + Colton
+Create an children property for Adam, make it equal to Terah's property
+
+
 2. Give adam a name property with the value "Adam".
+var adam = {
+  name: "Adam"
+
+};
+
 
 3. Add a spouse property to terah and assign it the value of adam.
+terah.spouse = adam;
 
 4. Change the value of the terah weight property to 125.
 
+terah.weight = 125;
+
 5. Remove the eyeColor property from terah.
+
+delete terah.eyeColor;
 
 6. Add a spouse property to adam and assign it the value of terah.
 
+adam.spouse = terah;
+
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+   
+terah.children={};
 
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+  
+terah.children.carson={name:"Carson"};
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
 
+terah.children.carter={name:"Carter"};
+
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
 
+terah.children.colton={name:"Colton"};
+
 11. Add a children property to adam and assign it the value of terah children.
 
+adam.children=terah.children; 
 
-*/
 
 // __________________________________________
 // Write your code below.
+*/
+
+var adam = {
+  name: "Adam",
+  spouse: terah,
+};
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+terah.children={};
+terah.children.carson={name:"Carson"};
+terah.children.carter={name:"Carter"};
+terah.children.colton={name:"Colton"};
+adam.children=terah.children
+
 
 
 
@@ -55,8 +99,7 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
+// My biggest source of confusion is that that when evaluating the individual tests, adam.children = terah.children was an effective line. However, when I tried to condense the code into one large 'var' statement for Adam (children: terah.children), the statement no longer passes. I also suspect I should be able to condense Terah's 3 children statements, but I could not find a way. In general, struggled a lot with the Syntax and had to do many trial and error evaluations.
 // 
 // 
 // 
